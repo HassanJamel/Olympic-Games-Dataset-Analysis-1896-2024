@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/olympic-games-dataset-analysis-1896-2024" target="_blank">
+    <img src="Olympic Games Strategy.png" alt="Olympic Sports Analysis" width="500">
+  </a>
+</p>
+
 [app.md](https://github.com/user-attachments/files/25036343/app.md)
 # Olympic Sports Analysis - Project Documentation (PRD)
 
